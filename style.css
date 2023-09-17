@@ -10,17 +10,24 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+
+
+
 }
 
 .container-ul {
   margin-top: 90px;
   list-style: none;
   display: flex;
-  background-color: #0051ff;
+  /* background-color: #b6b4b4; */
+  /* opacity: 0.8; */
   padding: 10px;
   color: aliceblue;
   border-radius: 10px;
   position: fixed;
+  background-color:rgba(182, 180, 180, 0.5);
+
+
 }
 
 #li {
@@ -87,6 +94,7 @@ body {
   position: relative;
   width: 1000px;
   height: 100%;
+  padding-top: 81px;
 }
 
 .image-stack__item--bottom {
