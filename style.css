@@ -49,7 +49,7 @@ a {
   margin-left: 20px;
 }
 .container {
-  background-image: url("assets/23324.jpg");
+  background-image: url("assets/weblogo.png");
   background-size: cover; /* Cover the entire container while maintaining aspect ratio */
   background-repeat: no-repeat;
   background-attachment: fixed;
